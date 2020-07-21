@@ -30,6 +30,7 @@
       "enabled": true
     }
   },
+  "dependencyDashboard": true,
   "packageRules": [
     {
       "packagePatterns": [
